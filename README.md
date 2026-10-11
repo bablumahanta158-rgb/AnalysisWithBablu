@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bablumahanta158-rgb" alt="bablumahanta158-rgb" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently working on real-world data analytics projects, exploring restaurant datasets, identifying trends, and extracting meaningful insights using Python, Pandas, NumPy, SQL, and Power BI. I'm focused on building practical projects and developing industry-ready data analysis skills.**
+- 🔭 I’m currently working on **real-world data analytics projects, exploring restaurant datasets, identifying trends, and extracting meaningful insights using Python, Pandas, NumPy, SQL, and Power BI. I'm focused on building practical projects and developing industry-ready data analysis skills.**
 
 - 🌱 I’m currently learning **advanced Python, data analysis techniques, data visualization, and real-world data analytics through hands-on projects. I'm also improving my problem-solving skills and building practical projects using Python, Pandas, NumPy, SQL, and Power BI.**
-
-- 🤝 I’m looking for help with **real-world data analytics projects, advanced SQL, Python problem-solving, Power BI dashboards, and industry best practices. I'm always eager to learn, collaborate, and improve my data analysis skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bablumahanta158-rgb](https://github.com/bablumahanta158-rgb)
 
